@@ -8,9 +8,10 @@ I am a mobile app developer working actively with Flutter. I also know some Kotl
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ctnmstf)
 
-### 📦 My Flutter Package
+### 📦 My Flutter Packages
 
 [![pub package](https://img.shields.io/badge/pub-dual__slider-blue?style=for-the-badge&logo=flutter)](https://pub.dev/packages/dual_slider)
+[![pub package](https://img.shields.io/badge/pub-dual__slider-blue?style=for-the-badge&logo=flutter)](https://pub.dev/packages/upper_snackbar)
 
 Check out my Flutter package: **dual_slider** - A highly customizable dual-direction slider widget for Flutter!
 
